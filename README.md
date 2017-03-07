@@ -1,4 +1,4 @@
-# webpack
+# webpack工程化
 ``` bash
 # clone demo
 $ git clone https://github.com/hzzly/webpack.git
